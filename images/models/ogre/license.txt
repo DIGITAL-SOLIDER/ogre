@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grubu - The ogre soldier
+* source:	https://sketchfab.com/3d-models/grubu-the-ogre-soldier-b415c126f21d4d32968ed1cbe22be1fa
+* author:	alemarro (https://sketchfab.com/alemarro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grubu - The ogre soldier" (https://sketchfab.com/3d-models/grubu-the-ogre-soldier-b415c126f21d4d32968ed1cbe22be1fa) by alemarro (https://sketchfab.com/alemarro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
